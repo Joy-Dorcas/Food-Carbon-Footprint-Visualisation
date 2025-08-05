@@ -1,4 +1,3 @@
-# Food-Carbon-Footprint-Visualisation
 # FOOD CARBON FOOTPRINT 
 
 Climate change is at the center of boardroom discussions, on how the increased 
